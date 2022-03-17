@@ -1,2 +1,3 @@
 docker-compose/mysql/persistent/*
+!docker-compose/mysql/persistent/.gitkeep
 
